@@ -1,5 +1,5 @@
 #include <iostream>
 
 void main(){
-    cout << "Hello, World";
+    while(1) cout << "Hello, World";
 }
